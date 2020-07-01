@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "dbUri": "mongodb+srv://daniil:1234@cluster0-j5qb2.mongodb.net/StatisticsCounter?retryWrites=true&w=majority",
+    "secretJwt": "oaw15WMA1Wnh5u"
+}
