@@ -1,0 +1,28 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+
+li > a.active {
+    text-shadow: 0px 1px 1px purple;
+}
+
+.content {
+    margin-top: 2rem;
+}
+
+.toast {
+    font-weight: 700;
+}
+
+.no-margin {
+    margin: 0;
+}
+
+.no-padding {
+    padding: 0;
+}
+
+.flex-space {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

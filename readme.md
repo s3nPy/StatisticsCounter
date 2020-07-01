@@ -1,5 +1,5 @@
 # StatisticsCounter
----
+
 Create your own counters and track progress on beautiful graphs.  
 
 This fullstack project was made as my first application using the MERN stack.  
